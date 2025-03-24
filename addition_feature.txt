@@ -1,5 +1,13 @@
+
 class vehicle:
 	def __init__(self, brand ,engine):
 		self.brand = brand
 		self.engine = engine
+
+class person:
+	def __init(self,name,age):
+		self.name = name
+		self.age = age
+
+
 An additional feature added for testing
